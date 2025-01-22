@@ -9,4 +9,4 @@ AstroSnatchers is a thrilling, fast-paced game set in the depths of space. Playe
 3. **Speed Control**: Control the conveyor speed by pushing the joystick forward; the resting state is stationary.
 4. **LED Display**: Monitor the one-minute countdown and your score on the LED matrix. Inactivity for 20 seconds triggers a timeout and resets the game.
 
-For detailed information, please refer to the [AstroSnatchers About Page](https://better-than-kids-toys.webflow.io/#about).
+For detailed information, please refer to the [AstroSnatchers Page](https://better-than-kids-toys.webflow.io).
